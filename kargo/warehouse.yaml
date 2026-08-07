@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/DagnyJay2/guestbook
+      repoURL: ghcr.io/dagnyjay2/guestbook
       discoveryLimit: 5
