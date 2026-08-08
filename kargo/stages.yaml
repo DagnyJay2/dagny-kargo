@@ -14,9 +14,9 @@ spec:
     spec:
       vars:
       - name: gitRepo
-        value: https://github.com/DagnyJay2/dagny-kargo
+        value: https://github.com/dagnyjay2/dagny-kargo
       - name: imageRepo
-        value: ghcr.io/DagnyJay2/guestbook
+        value: ghcr.io/dagnyjay2/guestbook
       steps:
       - uses: git-clone
         config:
@@ -77,7 +77,7 @@ spec:
       - name: gitRepo
         value: https://github.com/DagnyJay2/dagny-kargo
       - name: imageRepo
-        value: ghcr.io/DagnyJay2/guestbook
+        value: ghcr.io/dagnyjay2ay2/guestbook
       steps:
       - uses: git-clone
         config:
@@ -138,7 +138,7 @@ spec:
       - name: gitRepo
         value: https://github.com/DagnyJay2/dagny-kargo
       - name: imageRepo
-        value: ghcr.io/DagnyJay2/guestbook
+        value: ghcr.io/dagnyjay2/guestbook
       steps:
       - uses: git-clone
         config:
