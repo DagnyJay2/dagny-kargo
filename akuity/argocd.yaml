@@ -3,6 +3,7 @@ kind: ArgoCD
 metadata:
   name: my-argocd-instance
 spec:
+  version: v3.4.6-ak.92
   description: "Argo CD Instance for Kargo Quickstart"
   instanceSpec: {}
-  version: v2.10.9
+
